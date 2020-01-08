@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9CD3D7C5-B998-41DE-98DE-F2C86AF68AAF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>AplikasiPercetakan.My.MyApplication</StartupObject>
+    <RootNamespace>AplikasiPercetakan</RootNamespace>
+    <AssemblyName>AplikasiPercetakan</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>AplikasiPercetakan.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>AplikasiPercetakan.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="db_percetakanDataSet.Designer.vb">
+      <DependentUpon>db_percetakanDataSet.xsd</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Form Faktur.Designer.vb">
+      <DependentUpon>Form Faktur.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form Faktur.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.vb">
+      <DependentUpon>FormLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMasterAdmin.Designer.vb">
+      <DependentUpon>FormMasterAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormMasterAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMasterPelanggan.Designer.vb">
+      <DependentUpon>FormMasterPelanggan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormMasterPelanggan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMasterProduct.Designer.vb">
+      <DependentUpon>FormMasterProduct.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormMasterProduct.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormProduk.Designer.vb">
+      <DependentUpon>FormProduk.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormProduk.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTransaksi.Designer.vb">
+      <DependentUpon>FormTransaksi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormTransaksi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FromMenuUtama.Designer.vb">
+      <DependentUpon>FromMenuUtama.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FromMenuUtama.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="UbahPassword.Designer.vb">
+      <DependentUpon>UbahPassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UbahPassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form Faktur.resx">
+      <DependentUpon>Form Faktur.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMasterAdmin.resx">
+      <DependentUpon>FormMasterAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMasterPelanggan.resx">
+      <DependentUpon>FormMasterPelanggan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMasterProduct.resx">
+      <DependentUpon>FormMasterProduct.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormProduk.resx">
+      <DependentUpon>FormProduk.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTransaksi.resx">
+      <DependentUpon>FormTransaksi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FromMenuUtama.resx">
+      <DependentUpon>FromMenuUtama.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UbahPassword.resx">
+      <DependentUpon>UbahPassword.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="db_percetakanDataSet.xsc">
+      <DependentUpon>db_percetakanDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="db_percetakanDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>db_percetakanDataSet.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="db_percetakanDataSet.xss">
+      <DependentUpon>db_percetakanDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SAVE_20191215_095131.jpeg" />
+    <None Include="Resources\SAMPUL.jpg" />
+    <None Include="Resources\BLABLA.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\27-Add-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0-3017_abmeldung-button-logfile-area-text-png-image-with.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\molumen_red_round_error_warning_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock_security_business_web_data_information_system-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\26ce8716.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\temp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-purchase-order-computer-icons-purchasing-icon-desi-purchase-order-5b5dcde62bb109.994544501532874214179.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-e-commerce-better-business-bureau-company-marketin-red-simple-shopping-cart-icon-5ab162a0f154f0.0033002515215745609885.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1497992962.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\registration_registration2-512.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

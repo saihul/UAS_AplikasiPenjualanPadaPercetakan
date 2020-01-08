@@ -1,0 +1,192 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AplikasiPercetakan
+</name>
+</assembly>
+<members>
+<member name="T:AplikasiPercetakan.db_percetakanDataSet.AdminDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AplikasiPercetakan.db_percetakanDataSet.Bahan_ProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AplikasiPercetakan.db_percetakanDataSet.PembeliDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AplikasiPercetakan.db_percetakanDataSet.ProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AplikasiPercetakan.db_percetakanDataSet.TransaksiDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AplikasiPercetakan.db_percetakanDataSet.AdminRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AplikasiPercetakan.db_percetakanDataSet.Bahan_ProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AplikasiPercetakan.db_percetakanDataSet.PembeliRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AplikasiPercetakan.db_percetakanDataSet.ProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AplikasiPercetakan.db_percetakanDataSet.TransaksiRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AplikasiPercetakan.db_percetakanDataSet.AdminRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AplikasiPercetakan.db_percetakanDataSet.Bahan_ProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AplikasiPercetakan.db_percetakanDataSet.PembeliRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AplikasiPercetakan.db_percetakanDataSet.ProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AplikasiPercetakan.db_percetakanDataSet.TransaksiRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AplikasiPercetakan.db_percetakanDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AplikasiPercetakan.db_percetakanDataSetTableAdapters.AdminTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AplikasiPercetakan.db_percetakanDataSetTableAdapters.Bahan_ProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AplikasiPercetakan.db_percetakanDataSetTableAdapters.PembeliTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AplikasiPercetakan.db_percetakanDataSetTableAdapters.ProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AplikasiPercetakan.db_percetakanDataSetTableAdapters.TransaksiTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:AplikasiPercetakan.db_percetakanDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(AplikasiPercetakan.db_percetakanDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:AplikasiPercetakan.db_percetakanDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(AplikasiPercetakan.db_percetakanDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:AplikasiPercetakan.db_percetakanDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(AplikasiPercetakan.db_percetakanDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:AplikasiPercetakan.db_percetakanDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:AplikasiPercetakan.db_percetakanDataSetTableAdapters.TableAdapterManager.UpdateAll(AplikasiPercetakan.db_percetakanDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:AplikasiPercetakan.db_percetakanDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:AplikasiPercetakan.db_percetakanDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:AplikasiPercetakan.db_percetakanDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:AplikasiPercetakan.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:AplikasiPercetakan.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:AplikasiPercetakan.My.Resources.Resources._0_3017_abmeldung_button_logfile_area_text_png_image_with">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AplikasiPercetakan.My.Resources.Resources._1497992962">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AplikasiPercetakan.My.Resources.Resources._26ce8716">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AplikasiPercetakan.My.Resources.Resources._27_Add_512">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AplikasiPercetakan.My.Resources.Resources.kisspng_e_commerce_better_business_bureau_company_marketin_red_simple_shopping_cart_icon_5ab162a0f154f0_0033002515215745609885">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AplikasiPercetakan.My.Resources.Resources.kisspng_purchase_order_computer_icons_purchasing_icon_desi_purchase_order_5b5dcde62bb109_994544501532874214179">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AplikasiPercetakan.My.Resources.Resources.lock_security_business_web_data_information_system_512">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AplikasiPercetakan.My.Resources.Resources.molumen_red_round_error_warning_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AplikasiPercetakan.My.Resources.Resources.registration_registration2_512">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AplikasiPercetakan.My.Resources.Resources.SAMPUL">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AplikasiPercetakan.My.Resources.Resources.SAMPUL1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AplikasiPercetakan.My.Resources.Resources.SAVE_20191215_0951311">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AplikasiPercetakan.My.Resources.Resources.temp">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:AplikasiPercetakan.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

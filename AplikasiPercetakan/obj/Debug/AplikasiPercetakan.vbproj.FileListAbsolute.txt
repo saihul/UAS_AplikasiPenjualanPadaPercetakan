@@ -1,0 +1,48 @@
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\AplikasiPercetakan\AplikasiPercetakan\obj\Debug\AplikasiPercetakan.FormLogin.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\AplikasiPercetakan\AplikasiPercetakan\obj\Debug\AplikasiPercetakan.FormMasterAdmin.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\AplikasiPercetakan\AplikasiPercetakan\obj\Debug\AplikasiPercetakan.FormMasterPelanggan.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\AplikasiPercetakan\AplikasiPercetakan\obj\Debug\AplikasiPercetakan.FormMasterProduct.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\AplikasiPercetakan\AplikasiPercetakan\obj\Debug\AplikasiPercetakan.FormTransaksi.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\AplikasiPercetakan\AplikasiPercetakan\obj\Debug\AplikasiPercetakan.FormMenuUtama.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\AplikasiPercetakan\AplikasiPercetakan\obj\Debug\AplikasiPercetakan.vbproj.GenerateResource.Cache
+C:\Users\ACER\documents\visual studio 2012\Projects\AplikasiPercetakan\AplikasiPercetakan\bin\Debug\db_percetakan.accdb
+C:\Users\ACER\documents\visual studio 2012\Projects\AplikasiPercetakan\AplikasiPercetakan\bin\Debug\AplikasiPercetakan.exe
+C:\Users\ACER\documents\visual studio 2012\Projects\AplikasiPercetakan\AplikasiPercetakan\bin\Debug\AplikasiPercetakan.pdb
+C:\Users\ACER\documents\visual studio 2012\Projects\AplikasiPercetakan\AplikasiPercetakan\bin\Debug\AplikasiPercetakan.xml
+C:\Users\ACER\documents\visual studio 2012\Projects\AplikasiPercetakan\AplikasiPercetakan\obj\Debug\AplikasiPercetakan.Resources.resources
+C:\Users\ACER\documents\visual studio 2012\Projects\AplikasiPercetakan\AplikasiPercetakan\obj\Debug\AplikasiPercetakan.exe
+C:\Users\ACER\documents\visual studio 2012\Projects\AplikasiPercetakan\AplikasiPercetakan\obj\Debug\AplikasiPercetakan.xml
+C:\Users\ACER\documents\visual studio 2012\Projects\AplikasiPercetakan\AplikasiPercetakan\obj\Debug\AplikasiPercetakan.pdb
+C:\Users\ACER\documents\visual studio 2012\Projects\AplikasiPercetakan\AplikasiPercetakan\obj\Debug\AplikasiPercetakan.UbahPassword.resources
+C:\Users\apriz\Documents\Visual Studio 2012\Projects\AplikasiPercetakan\AplikasiPercetakan\obj\Debug\AplikasiPercetakan.exe
+C:\Users\apriz\Documents\Visual Studio 2012\Projects\AplikasiPercetakan\AplikasiPercetakan\obj\Debug\AplikasiPercetakan.xml
+C:\Users\apriz\Documents\Visual Studio 2012\Projects\AplikasiPercetakan\AplikasiPercetakan\obj\Debug\AplikasiPercetakan.pdb
+C:\Users\apriz\Documents\Visual Studio 2012\Projects\AplikasiPercetakan\AplikasiPercetakan\bin\Debug\AplikasiPercetakan.exe
+C:\Users\apriz\Documents\Visual Studio 2012\Projects\AplikasiPercetakan\AplikasiPercetakan\bin\Debug\AplikasiPercetakan.pdb
+C:\Users\apriz\Documents\Visual Studio 2012\Projects\AplikasiPercetakan\AplikasiPercetakan\bin\Debug\AplikasiPercetakan.xml
+C:\Users\apriz\Documents\Visual Studio 2012\Projects\AplikasiPercetakan\AplikasiPercetakan\obj\Debug\AplikasiPercetakan.FormLogin.resources
+C:\Users\apriz\Documents\Visual Studio 2012\Projects\AplikasiPercetakan\AplikasiPercetakan\obj\Debug\AplikasiPercetakan.FormMasterAdmin.resources
+C:\Users\apriz\Documents\Visual Studio 2012\Projects\AplikasiPercetakan\AplikasiPercetakan\obj\Debug\AplikasiPercetakan.FormMasterPelanggan.resources
+C:\Users\apriz\Documents\Visual Studio 2012\Projects\AplikasiPercetakan\AplikasiPercetakan\obj\Debug\AplikasiPercetakan.FormMasterProduct.resources
+C:\Users\apriz\Documents\Visual Studio 2012\Projects\AplikasiPercetakan\AplikasiPercetakan\obj\Debug\AplikasiPercetakan.FormTransaksi.resources
+C:\Users\apriz\Documents\Visual Studio 2012\Projects\AplikasiPercetakan\AplikasiPercetakan\obj\Debug\AplikasiPercetakan.FormMenuUtama.resources
+C:\Users\apriz\Documents\Visual Studio 2012\Projects\AplikasiPercetakan\AplikasiPercetakan\obj\Debug\AplikasiPercetakan.Resources.resources
+C:\Users\apriz\Documents\Visual Studio 2012\Projects\AplikasiPercetakan\AplikasiPercetakan\obj\Debug\AplikasiPercetakan.UbahPassword.resources
+C:\Users\apriz\Documents\Visual Studio 2012\Projects\AplikasiPercetakan\AplikasiPercetakan\obj\Debug\AplikasiPercetakan.vbproj.GenerateResource.Cache
+C:\Users\ACER\Documents\AplikasiPercetakan\AplikasiPercetakan\obj\Debug\AplikasiPercetakan.exe
+C:\Users\ACER\Documents\AplikasiPercetakan\AplikasiPercetakan\obj\Debug\AplikasiPercetakan.xml
+C:\Users\ACER\Documents\AplikasiPercetakan\AplikasiPercetakan\obj\Debug\AplikasiPercetakan.pdb
+C:\Users\ACER\Documents\AplikasiPercetakan\AplikasiPercetakan\bin\Debug\AplikasiPercetakan.exe
+C:\Users\ACER\Documents\AplikasiPercetakan\AplikasiPercetakan\bin\Debug\AplikasiPercetakan.pdb
+C:\Users\ACER\Documents\AplikasiPercetakan\AplikasiPercetakan\bin\Debug\AplikasiPercetakan.xml
+C:\Users\ACER\Documents\AplikasiPercetakan\AplikasiPercetakan\obj\Debug\AplikasiPercetakan.FormLogin.resources
+C:\Users\ACER\Documents\AplikasiPercetakan\AplikasiPercetakan\obj\Debug\AplikasiPercetakan.FormMasterAdmin.resources
+C:\Users\ACER\Documents\AplikasiPercetakan\AplikasiPercetakan\obj\Debug\AplikasiPercetakan.FormMasterPelanggan.resources
+C:\Users\ACER\Documents\AplikasiPercetakan\AplikasiPercetakan\obj\Debug\AplikasiPercetakan.FormMasterProduct.resources
+C:\Users\ACER\Documents\AplikasiPercetakan\AplikasiPercetakan\obj\Debug\AplikasiPercetakan.FormTransaksi.resources
+C:\Users\ACER\Documents\AplikasiPercetakan\AplikasiPercetakan\obj\Debug\AplikasiPercetakan.FormMenuUtama.resources
+C:\Users\ACER\Documents\AplikasiPercetakan\AplikasiPercetakan\obj\Debug\AplikasiPercetakan.Resources.resources
+C:\Users\ACER\Documents\AplikasiPercetakan\AplikasiPercetakan\obj\Debug\AplikasiPercetakan.UbahPassword.resources
+C:\Users\ACER\Documents\AplikasiPercetakan\AplikasiPercetakan\obj\Debug\AplikasiPercetakan.vbproj.GenerateResource.Cache
+C:\Users\ACER\Documents\AplikasiPercetakan\AplikasiPercetakan\obj\Debug\AplikasiPercetakan.FormProduk.resources
+C:\Users\ACER\Documents\AplikasiPercetakan\AplikasiPercetakan\obj\Debug\AplikasiPercetakan.FormFaktur.resources
